@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_main_padding">20dp</dimen>
+    <dimen name="linear_layout_main_padding">56dp</dimen>
+    <dimen name="textview_main_margintop">50dp</dimen>
+</resources>
